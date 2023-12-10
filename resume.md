@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Resume
-subtitle: [Download PDF]({{ '/assets/pdf/resume.pdf' | relative_url }})
 ---
+
+{: .text-center }
+PDF available [here]({{ '/assets/pdf/resume.pdf' | relative_url }}).
 
 # Blake Beaupain
 ## Senior Software Engineer
