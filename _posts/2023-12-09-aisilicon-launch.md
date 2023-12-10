@@ -23,4 +23,6 @@ The development of AiSilicon was a pretty long journey that involved:
 * Networked file systems
 * So much more that it's honestly kind of a blur...
 
-Considering I've also been working full-time at Nacelle... no wonder it took almost two years. But the work is honestly just beginning, because now it's time for myself and my business partner to climb the mountain of sales and marketing. Time to get the word out, iterate with user feedback, and help people build cool things!
+Considering I've also been working full-time at Nacelle... no wonder it took almost two years. But the work is honestly just beginning, because now it's time for myself and my business partner to climb the mountain of sales and marketing.
+
+Time to get the word out, iterate with user feedback, and help people build cool things!
