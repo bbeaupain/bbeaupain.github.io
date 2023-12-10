@@ -15,12 +15,12 @@ The development of AiSilicon was a pretty long journey that involved:
 * Building, configuring, and racking production grade GPU servers
 * Colocation in a datacenter far from home, setting up networking, redundancies, etc.
 * An entire PaaS backend written in Spring
-* An entire PaaS frontend written in Spring
+* An entire frontend written in Spring
 * Lots and lots of Kubernetes shenanigans
 * GPU containerization/passthrough
 * Hosting of git (and git-lfs) repositories
 * Integration with Stripe for billing
 * Networked file systems
-* So much more that is now just a blur...
+* So much more that it's honestly kind of a blur...
 
 Considering I've also been working full-time at Nacelle... no wonder it took almost two years. But the work is honestly just beginning, because now it's time for myself and my business partner to climb the mountain of sales and marketing. Time to get the word out, iterate with user feedback, and help people build cool things!
