@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+subtitle: [Download PDF]({{ '/assets/pdf/resume.pdf' | relative_url }})
 ---
 
 # Blake Beaupain
