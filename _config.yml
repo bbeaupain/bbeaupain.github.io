@@ -20,6 +20,7 @@ title: blake.sh
 ###############################################
 
 navbar-links:
+  Projects: "projects"
   Resume: "resume"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
